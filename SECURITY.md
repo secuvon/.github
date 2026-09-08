@@ -61,10 +61,10 @@ We provide security patches for the latest version of each component:
 | Repository | Type | Supported |
 |------------|------|-----------|
 | `secuvon/platform` | Private — Core platform | Latest release |
-| `secuvon/secuvon-cli` | Public — CLI tool | Latest release |
-| `secuvon/secuvon-sdk` | Public — Python/Node SDK | Latest release |
-| `secuvon/secuvon-benchmark` | Public — Benchmark suite | Latest release |
-| `secuvon/agent-guard` | Public — Runtime guard | Latest release |
+| `secuvon/secuvon-cli` | Private — CLI tool | Latest release |
+| `secuvon/secuvon-sdk` | Private — Python/Node SDK | Latest release |
+| `secuvon/secuvon-benchmark` | Private — Benchmark suite | Latest release |
+| `secuvon/agent-guard` | Private — Runtime guard | Latest release |
 
 Older versions are not supported. We strongly recommend always running the latest version.
 
