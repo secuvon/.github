@@ -73,7 +73,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
 - **Email:** [conduct@secuvon.com](mailto:conduct@secuvon.com)
-- **Anonymous form:** [secuvon.com/conduct-report](https://secuvon.ai/contact)
+- **Contact form:** [secuvon.ai/contact](https://secuvon.ai/contact)
 - **Direct message** to any maintainer marked as a Community Steward
 
 ### What to Include
