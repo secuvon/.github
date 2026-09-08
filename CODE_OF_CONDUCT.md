@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders of the Secuvon community — sponsored by Nexphase Technologies — pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as members, contributors, and leaders of the Secuvon community, sponsored by Nexphase Technologies, pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
@@ -73,18 +73,18 @@ This Code of Conduct applies within all community spaces, and also applies when 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
 - **Email:** [conduct@secuvon.com](mailto:conduct@secuvon.com)
-- **Anonymous form:** [secuvon.com/conduct-report](https://secuvon.com/conduct-report)
+- **Anonymous form:** [secuvon.com/conduct-report](https://secuvon.ai/contact)
 - **Direct message** to any maintainer marked as a Community Steward
 
 ### What to Include
 
 When reporting an incident, please include:
 
-1. **Your contact information** (so we can follow up — anonymous reports are welcome but harder to investigate)
+1. **Your contact information** (so we can follow up, anonymous reports are welcome but harder to investigate)
 2. **Names** (real, usernames, or pseudonyms) of any individuals involved, including witnesses
 3. **When and where** the incident occurred (URL, channel, event name, date and time)
 4. **Description** of what happened, in your own words
-5. **Supporting material** (screenshots, logs, recordings — only what you are comfortable sharing)
+5. **Supporting material** (screenshots, logs, recordings, only what you are comfortable sharing)
 6. **Any additional context** that may be helpful
 
 ### Response Process
@@ -190,4 +190,4 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 
 *This Code of Conduct is reviewed annually and updated as our community evolves.*
 
-*Nexphase Technologies — Building trust in AI, one scan at a time.*
+*Nexphase Technologies, Building trust in AI, one scan at a time.*
