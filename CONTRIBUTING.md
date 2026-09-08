@@ -2,11 +2,7 @@
 
 Thank you for your interest in contributing to Secuvon — the enterprise AI security platform by Nexphase Technologies. This document provides comprehensive guidance for contributing to the platform repository and our open-source projects.
 
-> **Note:** The `secuvon/platform` repository is **proprietary**. External contributions are accepted only under a signed Contributor License Agreement (CLA). Most community contributions happen in our open-source repos:
-> - [secuvon/secuvon-cli](https://github.com/secuvon/secuvon-cli)
-> - [secuvon/secuvon-sdk](https://github.com/secuvon/secuvon-sdk)
-> - [secuvon/secuvon-benchmark](https://github.com/secuvon/secuvon-benchmark)
-> - [secuvon/agent-guard](https://github.com/secuvon/agent-guard)
+> **Note:** The `secuvon/platform` repository is **proprietary**. External contributions are accepted only under a signed Contributor License Agreement (CLA). The CLI, SDK, benchmark and agent-guard repositories are currently private while they are being prepared for release.
 
 ---
 
@@ -46,8 +42,6 @@ There are many ways to contribute to Secuvon, not all of them involve writing co
 | **Feature requests** | [GitHub Discussions](https://github.com/secuvon/platform/discussions) |
 | **Security vulnerabilities** | [security@secuvon.com](mailto:security@secuvon.com) — see [SECURITY.md](SECURITY.md) |
 | **Documentation improvements** | Pull requests to docs/ folder |
-| **Test corpus contributions** | [secuvon-benchmark](https://github.com/secuvon/secuvon-benchmark) |
-| **CLI/SDK improvements** | [secuvon-cli](https://github.com/secuvon/secuvon-cli), [secuvon-sdk](https://github.com/secuvon/secuvon-sdk) |
 | **Community support** | Answer questions in Discussions |
 | **Translations** | i18n contributions for the web UI |
 | **Blog posts and case studies** | [community@secuvon.com](mailto:community@secuvon.com) |
@@ -623,7 +617,7 @@ As contributors demonstrate sustained engagement, they may be invited to take on
 | Need | Where |
 |------|-------|
 | **General questions** | [GitHub Discussions](https://github.com/secuvon/platform/discussions) |
-| **Documentation** | [docs.secuvon.com](https://docs.secuvon.com) |
+| **Documentation** | [secuvon.ai](https://secuvon.ai) |
 | **Real-time chat** | Discord: [discord.gg/secuvon](https://discord.gg/secuvon) |
 | **Bug reports** | [GitHub Issues](https://github.com/secuvon/platform/issues) |
 | **Security issues** | [security@secuvon.com](mailto:security@secuvon.com) |
