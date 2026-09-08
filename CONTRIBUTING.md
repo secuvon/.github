@@ -1,6 +1,6 @@
 # Contributing to Secuvon
 
-Thank you for your interest in contributing to Secuvon — the enterprise AI security platform by Nexphase Technologies. This document provides comprehensive guidance for contributing to the platform repository and our open-source projects.
+Thank you for your interest in contributing to Secuvon, the enterprise AI security platform by Nexphase Technologies. This document provides comprehensive guidance for contributing to the platform repository and our open-source projects.
 
 > **Note:** The `secuvon/platform` repository is **proprietary**. External contributions are accepted only under a signed Contributor License Agreement (CLA). The CLI, SDK, benchmark and agent-guard repositories are currently private while they are being prepared for release.
 
@@ -38,9 +38,9 @@ There are many ways to contribute to Secuvon, not all of them involve writing co
 
 | Contribution Type | Where |
 |------------------|-------|
-| **Bug reports** | [GitHub Issues](https://github.com/secuvon/platform/issues) |
-| **Feature requests** | [GitHub Discussions](https://github.com/secuvon/platform/discussions) |
-| **Security vulnerabilities** | [security@secuvon.com](mailto:security@secuvon.com) — see [SECURITY.md](SECURITY.md) |
+| **Bug reports** | [Contact form](https://secuvon.ai/contact) |
+| **Feature requests** | [Contact form](https://secuvon.ai/contact) |
+| **Security vulnerabilities** | [security@secuvon.com](mailto:security@secuvon.com), see [SECURITY.md](SECURITY.md) |
 | **Documentation improvements** | Pull requests to docs/ folder |
 | **Community support** | Answer questions in Discussions |
 | **Translations** | i18n contributions for the web UI |
@@ -70,7 +70,7 @@ There are many ways to contribute to Secuvon, not all of them involve writing co
    ```
 3. **Add the upstream remote:**
    ```bash
-   git remote add upstream https://github.com/secuvon/platform.git
+   git remote add upstream <the repository URL you were given>
    ```
 4. **Install Git hooks** (optional but recommended):
    ```bash
@@ -175,7 +175,7 @@ We follow [PEP 8](https://peps.python.org/pep-0008/) with these additions:
 **Example:**
 
 ```python
-"""Scanner service module — bridges the API to the scanning engine."""
+"""Scanner service module, bridges the API to the scanning engine."""
 from __future__ import annotations
 
 import logging
@@ -266,13 +266,13 @@ export default function ScanButton({ agentId, onScanStart }: ScanButtonProps) {
 
 ### General Standards
 
-- **No console.log in production code** — use proper logging
-- **No commented-out code** — delete it; git remembers
-- **No magic numbers** — define constants with descriptive names
-- **DRY (Don't Repeat Yourself)** — extract shared logic into utilities
-- **YAGNI (You Aren't Gonna Need It)** — don't add abstractions for hypothetical futures
-- **Boy Scout Rule** — leave the code cleaner than you found it
-- **Fail fast** — validate inputs early and raise clear errors
+- **No console.log in production code**, use proper logging
+- **No commented-out code**, delete it; git remembers
+- **No magic numbers**, define constants with descriptive names
+- **DRY (Don't Repeat Yourself)**, extract shared logic into utilities
+- **YAGNI (You Aren't Gonna Need It)**, don't add abstractions for hypothetical futures
+- **Boy Scout Rule**, leave the code cleaner than you found it
+- **Fail fast**, validate inputs early and raise clear errors
 
 ---
 
@@ -448,15 +448,15 @@ The PR title becomes the commit message on `main`. Make it count.
 
 ### Test Categories
 
-**Unit tests** — Fast, isolated tests of individual functions/components
+**Unit tests**, Fast, isolated tests of individual functions/components
 - Backend: pytest in `apps/api/tests/`
 - Frontend: Jest in `apps/web/src/**/__tests__/`
 
-**Integration tests** — Tests that hit a real database or external service
+**Integration tests**, Tests that hit a real database or external service
 - Backend: pytest with `pytest-asyncio` and asyncpg
 - Use test containers or a test database
 
-**E2E tests** — Browser-driven tests of complete user flows
+**E2E tests**, Browser-driven tests of complete user flows
 - Playwright in `apps/web/e2e/`
 - Run against a fully started stack
 
@@ -525,10 +525,10 @@ Before committing, verify:
 
 ### Before Reporting
 
-1. **Search existing issues** — your bug may already be reported
-2. **Check the documentation** — the behavior may be intentional
-3. **Try the latest version** — your bug may already be fixed
-4. **Reproduce in isolation** — minimize the test case
+1. **Search existing issues**, your bug may already be reported
+2. **Check the documentation**, the behavior may be intentional
+3. **Try the latest version**, your bug may already be fixed
+4. **Reproduce in isolation**, minimize the test case
 
 ### Bug Report Template
 
@@ -566,7 +566,7 @@ Any other context about the problem.
 
 ## Suggesting Features
 
-We welcome feature suggestions! Use [GitHub Discussions](https://github.com/secuvon/platform/discussions) with the "Ideas" category.
+We welcome feature suggestions! Send them through the [contact form](https://secuvon.ai/contact).
 
 ### Good Feature Proposals Include
 
@@ -581,7 +581,7 @@ We welcome feature suggestions! Use [GitHub Discussions](https://github.com/secu
 
 ## Contributor License Agreement
 
-For contributions to the **proprietary platform repository**, all contributors must sign our Contributor License Agreement (CLA) before their first PR is merged. This is automated via the CLA Assistant bot — you'll be prompted on your first PR.
+For contributions to the **proprietary platform repository**, all contributors must sign our Contributor License Agreement (CLA) before their first PR is merged. This is automated via the CLA Assistant bot, you'll be prompted on your first PR.
 
 For contributions to **open-source repositories** (CLI, SDK, benchmark, agent-guard), you grant Nexphase Technologies a license to your contribution under the repository's Apache 2.0 license.
 
@@ -593,10 +593,10 @@ If your contribution includes work done as part of your employment, ensure your 
 
 We believe in recognizing all contributions. Contributors are acknowledged in:
 
-- **CONTRIBUTORS.md** — auto-generated list of all contributors
-- **Release notes** — significant contributions called out by name
-- **Annual report** — top contributors recognized in our yearly retrospective
-- **Conference speaking opportunities** — invited to represent Secuvon at events
+- **CONTRIBUTORS.md**, auto-generated list of all contributors
+- **Release notes**, significant contributions called out by name
+- **Annual report**, top contributors recognized in our yearly retrospective
+- **Conference speaking opportunities**, invited to represent Secuvon at events
 
 ### Contributor Roles
 
@@ -616,10 +616,9 @@ As contributors demonstrate sustained engagement, they may be invited to take on
 
 | Need | Where |
 |------|-------|
-| **General questions** | [GitHub Discussions](https://github.com/secuvon/platform/discussions) |
+| **General questions** | [Contact form](https://secuvon.ai/contact) |
 | **Documentation** | [secuvon.ai](https://secuvon.ai) |
-| **Real-time chat** | Discord: [discord.gg/secuvon](https://discord.gg/secuvon) |
-| **Bug reports** | [GitHub Issues](https://github.com/secuvon/platform/issues) |
+| **Bug reports** | [Contact form](https://secuvon.ai/contact) |
 | **Security issues** | [security@secuvon.com](mailto:security@secuvon.com) |
 | **Conduct issues** | [conduct@secuvon.com](mailto:conduct@secuvon.com) |
 | **Enterprise/legal** | [legal@secuvon.com](mailto:legal@secuvon.com) |
@@ -638,13 +637,13 @@ As contributors demonstrate sustained engagement, they may be invited to take on
 
 ## Thank You
 
-Every contribution makes Secuvon better — whether it's code, documentation, bug reports, or community support. Thank you for being part of building a more secure AI ecosystem.
+Every contribution makes Secuvon better, whether it's code, documentation, bug reports, or community support. Thank you for being part of building a more secure AI ecosystem.
 
 ---
 
 <div align="center">
 
-**Secuvon** — Building trust in AI, one scan at a time.
+**Secuvon**, Building trust in AI, one scan at a time.
 
 *by Nexphase Technologies*
 
