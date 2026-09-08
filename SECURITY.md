@@ -2,7 +2,7 @@
 
 ## About Secuvon
 
-Secuvon is an enterprise AI security platform built by Nexphase Technologies. We scan, protect, and audit LLMs and AI agents for prompt injection, data leakage, jailbreaks, and compliance violations. Security is not just our product — it is foundational to how we build, operate, and deliver our platform.
+Secuvon is an enterprise AI security platform built by Nexphase Technologies. We scan, protect, and audit LLMs and AI agents for prompt injection, data leakage, jailbreaks, and compliance violations. Security is not just our product, it is foundational to how we build, operate, and deliver our platform.
 
 ---
 
@@ -60,11 +60,11 @@ We provide security patches for the latest version of each component:
 
 | Repository | Type | Supported |
 |------------|------|-----------|
-| `secuvon/platform` | Private — Core platform | Latest release |
-| `secuvon/secuvon-cli` | Private — CLI tool | Latest release |
-| `secuvon/secuvon-sdk` | Private — Python/Node SDK | Latest release |
-| `secuvon/secuvon-benchmark` | Private — Benchmark suite | Latest release |
-| `secuvon/agent-guard` | Private — Runtime guard | Latest release |
+| `secuvon/platform` | Private, Core platform | Latest release |
+| `secuvon/secuvon-cli` | Private, CLI tool | Latest release |
+| `secuvon/secuvon-sdk` | Private, Python/Node SDK | Latest release |
+| `secuvon/secuvon-benchmark` | Private, Benchmark suite | Latest release |
+| `secuvon/agent-guard` | Private, Runtime guard | Latest release |
 
 Older versions are not supported. We strongly recommend always running the latest version.
 
@@ -162,4 +162,4 @@ We are currently developing a formal bug bounty program. In the meantime, we wil
 
 *This policy is reviewed quarterly and updated as our security practices evolve. Last reviewed: April 2026.*
 
-*Nexphase Technologies — Building trust in AI, one scan at a time.*
+*Nexphase Technologies, Building trust in AI, one scan at a time.*
