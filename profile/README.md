@@ -2,14 +2,14 @@
 
 # Secuvon
 
-**Enterprise AI Security Platform**
+**Security testing for AI agents**
 
-*by Nexphase Technologies*
+Secuvon sends adversarial prompts to the AI agent you name, grades every reply,
+and reports each test as passed, failed or errored, with the prompt and the
+response as evidence.
 
----
+[Website](https://secuvon.ai) · [Security](https://secuvon.ai/security) · [Contact](https://secuvon.ai/contact)
 
-Scan, protect, and audit LLMs and AI agents for prompt injection, data leakage, jailbreaks, and compliance gaps.
-
-[Website](https://secuvon.ai)
+Operated by NexPhase Technologies Limited, Ireland.
 
 </div>
