@@ -69,6 +69,6 @@ Our security practices are described at
 | [compliance@secuvon.ai](mailto:compliance@secuvon.ai) | Security questionnaires and audit-evidence requests |
 | [support@secuvon.ai](mailto:support@secuvon.ai) | Help with using Secuvon |
 
-Secuvon is operated by NexPhase Technologies Limited, Ireland.
+Secuvon is operated by NexPhase Technology Limited, Ireland.
 
 Last reviewed: 29 September 2026.

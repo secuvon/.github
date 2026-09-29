@@ -18,4 +18,4 @@ component, this page will explain how to contribute to it.
 Everyone who takes part in Secuvon's public spaces is expected to follow our
 [Code of Conduct](CODE_OF_CONDUCT.md).
 
-Secuvon is operated by NexPhase Technologies Limited, Ireland.
+Secuvon is operated by NexPhase Technology Limited, Ireland.

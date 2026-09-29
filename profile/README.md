@@ -10,6 +10,6 @@ response as evidence.
 
 [Website](https://secuvon.ai) · [Security](https://secuvon.ai/security) · [Contact](https://secuvon.ai/contact)
 
-Operated by NexPhase Technologies Limited, Ireland.
+Operated by NexPhase Technology Limited, Ireland.
 
 </div>

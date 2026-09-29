@@ -120,6 +120,6 @@ The enforcement guidelines were inspired by
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 
-Secuvon is operated by NexPhase Technologies Limited, Ireland.
+Secuvon is operated by NexPhase Technology Limited, Ireland.
 
 Last reviewed: 29 September 2026.
